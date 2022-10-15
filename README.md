@@ -1,2 +1,2 @@
 # js-algorithms-demo-
-Demo repository for JS Algorithms Course
+Repository for JS Algorithms Course
